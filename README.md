@@ -3,7 +3,7 @@
 
 Цель – оценить удержание клиентов, выявить паттерны поведения и сегментировать аудиторию для оптимизации маркетинга.
 
-Исходный датасет взят с платформы Kaggle: [(https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)].
+Исходный датасет взят с платформы [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce).
 ## Стек
 * **Python** (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
 * **Методы:** Когортный анализ (Retention Rate), RFM-сегментация, проверка статистических гипотез.
